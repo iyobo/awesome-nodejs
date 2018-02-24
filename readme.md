@@ -758,8 +758,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Apostrophe2](http://apostrophenow.org) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-- [JollofJS](http://jollofjs.com) - Solid CMS and web application platform based on KoaJS (+ async/await). Comes with a data abstraction engine that currently supports MongoDB (more to DB adapters promised).
-
+- [JollofJS](http://jollofjs.com) - CMS and Modern MVC framework based on KoaJS (+ async/await) with an emphasis on data abstraction, making it possible to support several datasources per model (MongoDB included).
 
 ### Forum
 
